@@ -106,7 +106,7 @@ plus 1, 2
 ### binding-debug を使う
 - - -
 
-* $ gem install binding-debug
+* $ gem install [binding-debug](https://github.com/osyo-manga/gem-binding-debug)
 
 ```ruby
 require "binding/debug"
