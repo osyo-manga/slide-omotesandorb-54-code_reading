@@ -91,6 +91,7 @@ def plus(a, b)
   pp __method__    # => :plus
   pp [a, b]        # => [1, 2]
   pp a.class.name  # => "Integer"
+  pp caller        # コールスタックを出力
 
   a + b
 end
