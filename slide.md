@@ -146,6 +146,7 @@ plus 1, 2
 * Ruby にはコードを読むための道具がいろいろとある               <!-- .element: class="fragment" -->
 * Ruby だけではなくてエディタにもこだわるとより捗る               <!-- .element: class="fragment" -->
 * コードの読み方は人それぞれだと思うので自分にあったものをいろいろと試してみよう               <!-- .element: class="fragment" -->
+* Ruby が読めるなら Rails のコードも読める！         <!-- .element: class="fragment" -->
 * 追記したデバッグコードはちゃんと消そう！         <!-- .element: class="fragment" -->
 
 
